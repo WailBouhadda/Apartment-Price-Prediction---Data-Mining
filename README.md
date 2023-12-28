@@ -1,4 +1,4 @@
-# Apartment-Price-Prediction-and-Valuation-Using-Data-Mining
+# Apartment-Price-Prediction---Data-Mining
 
 
 #### Author:  - <a href="https://github.com/WailBouhadda">Wail Bouhadda</a>
