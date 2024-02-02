@@ -37,7 +37,7 @@ In this project, we undertook a comprehensive data collection process to gather 
 
 - **Website**: We collected data from the Avito website, a well-known platform for apartment listings. The website provided detailed information about various apartments, including their attributes and prices.
 
-- **Selenium**: We used Selenium, a web automation tool, to navigate through the website, access individual listing pages, and extract data. Selenium allowed us to interact with the website's elements, such as clicking through multiple pages and scraping information efficiently.
+- **Selenium**: We used Selenium, a web automation tool to navigate through the website, access individual listing pages, and extract data. Selenium allowed us to interact with the website's elements, such as clicking through multiple pages and scraping information efficiently.
 
 
 ## Data Preprocessing
