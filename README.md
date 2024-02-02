@@ -15,7 +15,7 @@
 
 ## Project Overview
 
-Welcome to the Apartment Price Prediction project, where we employ data mining techniques to predict apartment prices. Our goal is to build a robust machine learning model that can accurately predict apartment prices based on various features.
+Welcome to the Apartment Price Prediction project, where we employ data mining techniques to predict apartment prices, our goal is to build a robust machine learning model that can accurately predict apartment prices based on various features.
 
 #### Project Goals
 
